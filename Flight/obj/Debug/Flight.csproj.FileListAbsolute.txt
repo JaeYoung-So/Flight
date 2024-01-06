@@ -1,0 +1,6 @@
+/Users/sojaeyeong/Projects/Flight/Flight/bin/Debug/Flight.exe
+/Users/sojaeyeong/Projects/Flight/Flight/bin/Debug/Flight.pdb
+/Users/sojaeyeong/Projects/Flight/Flight/obj/Debug/Flight.csproj.AssemblyReference.cache
+/Users/sojaeyeong/Projects/Flight/Flight/obj/Debug/Flight.csproj.CoreCompileInputs.cache
+/Users/sojaeyeong/Projects/Flight/Flight/obj/Debug/Flight.exe
+/Users/sojaeyeong/Projects/Flight/Flight/obj/Debug/Flight.pdb
